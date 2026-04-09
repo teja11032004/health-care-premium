@@ -117,6 +117,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 4.  Write appropriate tests (if applicable).
 5.  Submit a pull request with a clear description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file (if present) for more details.
